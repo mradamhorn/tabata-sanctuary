@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px) {
+    .nav {
+        float: none;
+        text-align: left;
+    }
+
+    .col {
+        float: none;
+    }
+
+}
+
+@media screen and (min-width: 601px) {
+    iframe {
+        width: 800px;
+        height: 450px;
+    }
+}
